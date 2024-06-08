@@ -1,0 +1,10 @@
+# Object oriented programming using python.
+
+QUESTION:
+What is class and Object?
+-> CLASS:
+ A class is like a blueprint for creating objects. It defines the attributes (properties) and methods (behaviors) that objects of that class will have1. For example, you can create a Person class with attributes like name, age, and methods like walk() and talk().
+
+ OBJECT:
+ An object is made out of attributes and methods where attributes represent data and methods represent tasks or the functionality that the object can do.
+ 
